@@ -1,0 +1,17 @@
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\bin\Debug\net6.0-windows\PalozziHW1.exe
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\bin\Debug\net6.0-windows\PalozziHW1.deps.json
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\bin\Debug\net6.0-windows\PalozziHW1.runtimeconfig.json
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\bin\Debug\net6.0-windows\PalozziHW1.dll
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\bin\Debug\net6.0-windows\PalozziHW1.pdb
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\PalozziHW1.csproj.AssemblyReference.cache
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\PalozziHW1.Form1.resources
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\PalozziHW1.csproj.GenerateResource.cache
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\PalozziHW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\PalozziHW1.AssemblyInfoInputs.cache
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\PalozziHW1.AssemblyInfo.cs
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\PalozziHW1.csproj.CoreCompileInputs.cache
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\PalozziHW1.dll
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\refint\PalozziHW1.dll
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\PalozziHW1.pdb
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\PalozziHW1.genruntimeconfig.cache
+C:\Users\massi\source\repos\PalozziHW1\PalozziHW1\obj\Debug\net6.0-windows\ref\PalozziHW1.dll
